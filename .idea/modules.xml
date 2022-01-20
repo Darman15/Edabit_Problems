@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Day_At_The_Market/A_Day_At_The_Market.iml" filepath="$PROJECT_DIR$/A_Day_At_The_Market/A_Day_At_The_Market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Broken_Bridge/Broken_Bridge.iml" filepath="$PROJECT_DIR$/Broken_Bridge/Broken_Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Edabit_Problems.iml" filepath="$PROJECT_DIR$/.idea/Edabit_Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Get_Sum_of_All_Array_Elements/Get_Sum_of_All_Array_Elements.iml" filepath="$PROJECT_DIR$/Get_Sum_of_All_Array_Elements/Get_Sum_of_All_Array_Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCharWord/WordCharWord.iml" filepath="$PROJECT_DIR$/WordCharWord/WordCharWord.iml" />
+    </modules>
+  </component>
+</project>
